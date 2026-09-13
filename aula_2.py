@@ -47,6 +47,6 @@ async def pack(ctx):
     arquivos = ["gato.jpg", "trem.jpg", "mine.jpg", "jordan.jpg", "image.png", "clip.jpg", "banheiro.png"]
     imagem = random.choice(arquivos)
     await ctx.send(file=discord.File(f"images/{imagem}"))
-bot.run("MTU0MTU4MTI5NjQyODM4ODQ0Mw.GaN3mv.GQp1qfwSn8He21eyWBz1znHDmC1UPb03X9uYeE")
+bot.run(".....")
 
  
